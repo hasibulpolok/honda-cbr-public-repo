@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap');
+
+body{
+    font-family: 'Poppins', sans-serif;
+}
+
+.nav-section{
+    color:white;
+}
+
+.honda-container-color{
+    background: #264653;
+    
+}
+
+.cbr-button{
+    background: #E76F51;
+    color:#ffffff;
+}
+
+.para-color{
+   color: #E0E0E0;
+}
+
+.graysclae{
+    filter:saturate(15%);
+}
+
+.orange-text{
+    color:#E76F51;
+    ;
+}
